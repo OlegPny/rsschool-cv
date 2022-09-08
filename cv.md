@@ -18,6 +18,7 @@ CI/CD tools and some skills in frontend development.
 Capable of team work, self-learning and sharing knowledge.
 ****
 
+
 ### Skills:
 * **Backend technologies:** Java 11, Spring Framework (Web, Data, Security), Hibernate, SQL Databases (Oracle, PostgreSQL), NoSQL Databases (Mongo, Redis)
 * **Frontend technologies:** Angular 11
@@ -25,11 +26,11 @@ Capable of team work, self-learning and sharing knowledge.
 * **Web3 technologies:** Ethereum, Solidity, Remix IDE, Infura, MetaMask Hardhat, Ethers.js
 ****
 
+
 ### Code example:
 *Given table **People**:* ```id | name | age```.   
 *Return the groups with 10 or more people who have that age.  
 Result table should look like ```age | total count```.*
-
 ```
 SELECT p.age as age, COUNT(p.id) as total_people
 FROM PEOPLE p 
@@ -37,6 +38,7 @@ GROUP BY p.age
 HAVING COUNT(p.id) >= 10
 ```
 ****
+
 
 ### Experience:
 * ***November 2019 - till now*, [X5 RETAIL](https://www.x5.ru/ru/)**  
@@ -54,6 +56,7 @@ HAVING COUNT(p.id) >= 10
   Implemented business logic, discussed features and improvements with customers.
 ***
 
+
 ### Education:
 * ***2011-2017*, Bauman Moscow State Technical University**
   *Specialist Degree, Track Vehicles and Mobile Robots*
@@ -61,9 +64,11 @@ HAVING COUNT(p.id) >= 10
   *Bank Trends, Android Development*
 ***
 
+
 ### Certificates:
 ***2018*, [Oracle Certified Associate Java SE8 Programmer](https://drive.google.com/file/d/1gB7d2i4AETi-P8sIA9Z0v9muGQ9hKApH/view?usp=sharing)**
 ***
+
 
 ### Languages:
 * **Russian -** *native*
