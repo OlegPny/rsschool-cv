@@ -1,11 +1,10 @@
-## **Oleg Primolennyy**
---------
-
+# Oleg Primolennyy
 ### Contacts:
-* **Location:** Phuket Town, Thailand
-* **Discord**: CodingN1nja
-* **Email**: element.onex@gmail.com
-* **Phone:** currently not available
+* __Location:__ Phuket Town, Thailand
+* __Discord__: CodingN1nja
+* __Email__: element.onex@gmail.com
+* __Phone:__ currently not available  
+
 --------
 
 ### About Me:
@@ -13,18 +12,20 @@ Senior Java Developer with 5 years experience in enterprise-level applications d
 Knowledgeable in all stages of web-application life cycle,
 proficient in a range of technologies, including Java, SQL and NoSQL databases, message brokers,
 CI/CD tools and some skills in frontend development.
-Capable of team work, self-learning and sharing knowledge.
+Capable of team work, self-learning and sharing knowledge.  
+
 --------
 
 ### Skills:
-* **Backend technologies:** Java 11, Spring Framework (Web, Data, Security), Hibernate, SQL Databases (Oracle, PostgreSQL), NoSQL Databases (Mongo, Redis)
-* **Frontend technologies:** Angular 11
-* **Dev technologies:** Git, Docker, Maven, Jira
-* **Web3 technologies:** Ethereum, Solidity, Remix IDE, Infura, MetaMask Hardhat, Ethers.js
+* __Backend technologies:__ Java 11, Spring Framework (Web, Data, Security), Hibernate, SQL Databases (Oracle, PostgreSQL), NoSQL Databases (Mongo, Redis)
+* __Frontend technologies:__ Angular 11
+* __Dev technologies:__ Git, Docker, Maven, Jira
+* __Web3 technologies:__ Ethereum, Solidity, Remix IDE, Infura, MetaMask Hardhat, Ethers.js  
+
 --------
 
 ### Code example:
-*Given table **People**:* ```id | name | age```.   
+*Given table __People__:* ```id | name | age```.   
 *Return the groups with 10 or more people who have that age.  
 Result table should look like ```age | total count```.*
 ```
@@ -32,36 +33,41 @@ SELECT p.age as age, COUNT(p.id) as total_people
 FROM PEOPLE p 
 GROUP BY p.age
 HAVING COUNT(p.id) >= 10
-```
+```  
+
 --------
 
 ### Experience:
-* ***November 2019 - till now*, [X5 RETAIL](https://www.x5.ru/ru/)**  
-  **Senior Java Developer**  
+* __November 2019 - till now, [X5 RETAIL](https://www.x5.ru/ru/)__  
+  __*Senior Java Developer*__  
   Participating in microservices system design and implementing features.   
   Covering code with unit and integration tests. Bug fixing.  
   Participating in load testing. Support on piloting features.   
   Interviewing and onboarding new team members.
 
-* ***June 2017 - November 2019*, [T1 Consulting](https://www.t1-consulting.ru/)**  
-  **Java Developer**  
+* __June 2017 - November 2019, [T1 Consulting](https://www.t1-consulting.ru/)__   
+  __*Java Developer*__  
   Passed 6-month internship and received an offer to join company as a Java Developer.   
   Participated in 3 enterprise projects for Sberbank, Rosselhozbank and Vaillant Group.
-  Implemented business logic, discussed features and improvements with customers.
+  Implemented business logic, discussed features and improvements with customers.  
+
 --------
 
 ### Education:
-* ***2011-2017*, Bauman Moscow State Technical University**
+* __2011-2017, Bauman Moscow State Technical University__  
   *Specialist Degree, Track Vehicles and Mobile Robots*
-* ***2017*, Tinkoff Fintech**  
-  *Bank Trends, Android Development*
+* __2017, Tinkoff Fintech__  
+  *Bank Trends, Android Development*  
+
 --------
 
 ### Certificates:  
-***2018*, [Oracle Certified Associate Java SE8 Programmer](https://drive.google.com/file/d/1gB7d2i4AETi-P8sIA9Z0v9muGQ9hKApH/view?usp=sharing)**
+__2018, [Oracle Certified Associate Java SE8 Programmer](https://drive.google.com/file/d/1gB7d2i4AETi-P8sIA9Z0v9muGQ9hKApH/view?usp=sharing)__
+
+--------
 
 ### Languages:
-* **Russian -** *native*
-* **English -** *advanced*
+* **Russian -** native
+* **English -** advanced
 
 
